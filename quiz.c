@@ -1,6 +1,6 @@
 /*
 * Ahmed Yassin, 400536694
-* This quiz program is designed to test users' knowledge on Linux, C, and Git
+* The quiz program is designed to test users' knowledge on Linux, C, and Git
 */
 
 //Include necessary libraries
