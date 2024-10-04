@@ -25,9 +25,9 @@ int main(int argc, char*argv[]) {
     
     //Declare and initialize strings for each question and their corresponding answer accordingly
     char *question1 = "What is the command to move into a directory in Linux?";
-    char *answer1 = "In C, what does the 'printf' function do?";
+    char *answer1 = "cd";
     
-    char *question2 = "cd";
+    char *question2 = "In C, what does the 'printf' function do?";
     char *answer2 = "Prints output";
     
     char *question3 = "What is the command to initialize a new Git repository?";
